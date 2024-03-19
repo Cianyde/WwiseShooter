@@ -1,2 +1,2 @@
 # WwiseShooter
-FPS shooter project that uses Wwise
+FPS shooter project that uses Wwise to create unique shooting features
